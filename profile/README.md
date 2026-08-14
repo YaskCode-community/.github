@@ -9,7 +9,7 @@
 Presentaciones educativas · Debates · Recursos abiertos · Proyectos comunitarios
 
 [![Presentations](https://img.shields.io/badge/Presentaciones-FF6DB6?style=for-the-badge&logo=slides&logoColor=white)](#presentaciones)
-[![Discussions](https://img.shields.io/badge/Discusiones-6C8CFF?style=for-the-badge&logo=github&logoColor=white)](#discusiones)
+[![Discussions](https://img.shields.io/badge/Discusiones-6C8CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/YaskCode-community/discussions)
 [![Contribute](https://img.shields.io/badge/Contribuir-55C878?style=for-the-badge&logo=git&logoColor=white)](#participa)
 
 </div>
@@ -44,22 +44,16 @@ Cada recurso podrá incluir:
 
 ## Discusiones
 
-Las Discussions serán el foro central de YaskCode Community: un espacio para formular preguntas, compartir experiencias, debatir los recursos publicados y proponer nuevas contribuciones.
+Las [Discussions de YaskCode Community](https://github.com/orgs/YaskCode-community/discussions) son nuestro foro central: un espacio para presentarse, formular preguntas, compartir experiencias, debatir recursos y proponer nuevas contribuciones.
 
-Categorías previstas:
+Las conversaciones están organizadas en cuatro secciones:
 
-- 👋 Bienvenida y presentaciones
-- 📢 Anuncios
-- 💬 Conversaciones generales
-- 🎓 Maestría TIC-LUZ
-- 🚀 GDG Caracas
-- 💜 Women Techmakers
-- 💻 Clases y aprendizaje
-- 🖼️ Presentaciones y recursos
-- 💡 Ideas y propuestas
-- 🙋 Preguntas y respuestas
+- 🏠 **Inicio:** Anuncios, Bienvenida y General.
+- 🌐 **Comunidades:** Maestría TIC-LUZ, GDG Caracas, Women Techmakers y Clases y aprendizaje.
+- 📚 **Aprendizaje y recursos:** Preguntas y respuestas, Presentaciones y recursos, y Muestra y comparte.
+- 🤝 **Participación:** Ideas y propuestas, y Encuestas.
 
-> Las Discussions se habilitarán en la siguiente etapa.
+[**Explorar las discusiones →**](https://github.com/orgs/YaskCode-community/discussions)
 
 ## Participa
 
