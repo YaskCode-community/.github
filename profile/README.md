@@ -8,6 +8,7 @@
 
 Presentaciones educativas · Debates · Recursos abiertos · Proyectos comunitarios
 
+[![Start](https://img.shields.io/badge/%F0%9F%9A%80%20Comenzar-FF7A59?style=for-the-badge)](https://github.com/orgs/YaskCode-community/discussions/2)
 [![Presentations](https://img.shields.io/badge/Presentaciones-FF6DB6?style=for-the-badge&logo=slides&logoColor=white)](#presentaciones)
 [![Discussions](https://img.shields.io/badge/Discusiones-6C8CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/YaskCode-community/discussions)
 [![Contribute](https://img.shields.io/badge/Contribuir-55C878?style=for-the-badge&logo=git&logoColor=white)](#participa)
