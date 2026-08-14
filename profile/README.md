@@ -76,6 +76,8 @@ Las contribuciones serán revisadas antes de su publicación para mantener un ca
 - **Inclusión:** promovemos una comunidad respetuosa y accesible.
 - **Atribución:** reconocemos siempre la autoría y las licencias.
 
+[**Consultar el Código de conducta →**](https://github.com/YaskCode-community/.github/blob/main/CODE_OF_CONDUCT.md)
+
 ---
 
 <div align="center">
